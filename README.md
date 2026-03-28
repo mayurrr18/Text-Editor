@@ -61,9 +61,10 @@ java Text_Editor
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-*Add screenshots of your application here to make your project more attractive.*
+<img width="437" height="294" alt="image" src="https://github.com/user-attachments/assets/ee292de6-1a8f-4587-b370-b360b66fcc60" />
+
 
 ---
 
